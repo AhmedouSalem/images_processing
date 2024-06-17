@@ -3,4 +3,4 @@
   - Créer un environnement virtuel pour y ajouter les packages nécessaire : python -m venv venv
   - Installer les package : PyQt5, ,mysql.connector, numpy, Pillow,
 # demonstration
-<img href="QT_project.PNG"/><img href="compressed_2.png"/>
+<img src="QT_project.PNG"/><img src="compressed_2.png"/>
